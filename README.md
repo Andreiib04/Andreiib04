@@ -20,7 +20,7 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
+    <a href = "mailto: andreiib042021@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://lattes.cnpq.br/2767955750236075">
