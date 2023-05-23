@@ -25,7 +25,7 @@
       <img width="30" src="gmail.svg">
     </a>
     <a href = "https://lattes.cnpq.br/2767955750236075">
-      <img width="25" src="Lattes.svg">
+      <img width="25" src="Lattes.png">
     <a href = "https://www.instagram.com/aibueno08/">
       <img width="25" src="instagram.png">
     </a>
